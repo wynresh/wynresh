@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Victorien Doledji !
+# 👋 Salut, moi c'est Victorien Doledji Alias Nresh!
 **Ingénieur Logiciel & IA | Data Scientist | Expert Cybersécurité**
 
 Passionné par la résolution de problèmes complexes et le développement de solutions à fort impact. Actuellement **IT Consultant** chez Groupe Défis et Stratégies à Abidjan.
@@ -27,8 +27,7 @@ Passionné par la résolution de problèmes complexes et le développement de so
 ---
 
 ### 📊 Statistiques GitHub 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wynresh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wynresh&layout=compact&theme=radical)
+
 
 ---
 
